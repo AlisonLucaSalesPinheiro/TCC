@@ -1,0 +1,10 @@
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\bin\Debug\TCCSENAI.exe.config
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\bin\Debug\TCCSENAI.exe
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\bin\Debug\TCCSENAI.pdb
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\obj\Debug\TCCSENAI.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\obj\Debug\TCCSENAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\obj\Debug\TCCSENAI.FrmItensFaltantes.resources
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\obj\Debug\TCCSENAI.csproj.GenerateResource.cache
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\obj\Debug\TCCSENAI.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\obj\Debug\TCCSENAI.exe
+C:\Users\cliente\Desktop\TCCSENAI2\TCCSENAI\obj\Debug\TCCSENAI.pdb
